@@ -1,0 +1,14 @@
+D:\large cats\C\MathGame\MathGame\obj\Debug\net8.0\MathGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\large cats\C\MathGame\MathGame\obj\Debug\net8.0\MathGame.AssemblyInfoInputs.cache
+D:\large cats\C\MathGame\MathGame\obj\Debug\net8.0\MathGame.AssemblyInfo.cs
+D:\large cats\C\MathGame\MathGame\obj\Debug\net8.0\MathGame.csproj.CoreCompileInputs.cache
+D:\large cats\C\MathGame\MathGame\bin\Debug\net8.0\MathGame.exe
+D:\large cats\C\MathGame\MathGame\bin\Debug\net8.0\MathGame.deps.json
+D:\large cats\C\MathGame\MathGame\bin\Debug\net8.0\MathGame.runtimeconfig.json
+D:\large cats\C\MathGame\MathGame\bin\Debug\net8.0\MathGame.dll
+D:\large cats\C\MathGame\MathGame\bin\Debug\net8.0\MathGame.pdb
+D:\large cats\C\MathGame\MathGame\obj\Debug\net8.0\MathGame.dll
+D:\large cats\C\MathGame\MathGame\obj\Debug\net8.0\refint\MathGame.dll
+D:\large cats\C\MathGame\MathGame\obj\Debug\net8.0\MathGame.pdb
+D:\large cats\C\MathGame\MathGame\obj\Debug\net8.0\MathGame.genruntimeconfig.cache
+D:\large cats\C\MathGame\MathGame\obj\Debug\net8.0\ref\MathGame.dll
