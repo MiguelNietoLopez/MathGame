@@ -12,3 +12,4 @@ D:\large cats\C\MathGame\MathGame\obj\Debug\net8.0\refint\MathGame.dll
 D:\large cats\C\MathGame\MathGame\obj\Debug\net8.0\MathGame.pdb
 D:\large cats\C\MathGame\MathGame\obj\Debug\net8.0\MathGame.genruntimeconfig.cache
 D:\large cats\C\MathGame\MathGame\obj\Debug\net8.0\ref\MathGame.dll
+D:\large cats\C\MathGame\MathGame\obj\Debug\net8.0\MathGame.sourcelink.json
